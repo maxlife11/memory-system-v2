@@ -1,0 +1,82 @@
+# Dad Half Dev Blog Digest
+
+## Overview
+
+- Total posts analyzed: 20
+- Date range: Fri, 04 Jul 2025 19:13:36 GMT to Wed, 15 Apr 2026 09:09:07 GMT
+
+---
+
+## Key Themes & Insights
+
+### 1. AI Agents are Central (9 posts)
+
+The blog heavily focuses on AI agents, particularly the Hermes Agent and OpenClaw. Key topics include:
+- Agent architecture and memory systems (Hermes 5-layer memory)
+- Setup and configuration guides for remote deployment (VPS, IDE integration)
+- Comparisons between different agent frameworks (Hermes vs OpenClaw)
+- Best practices for agent deployment and maintenance
+- Model selection for agent applications (Claude, Gemini, etc.)
+
+### 2. Agent Harnesses Over Agents (Key Insight)
+
+Multiple posts emphasize that you shouldn't build agents from scratch. Instead:
+- Use established harness frameworks (OpenClaw, Hermes)
+- The 'harness engineer' role is more valuable than 'agent builder'
+- Focus on integration, tooling, and workflow over raw agent logic
+
+### 3. Practical Tutorials (6 posts)
+
+Many posts provide actionable step-by-step tutorials:
+- Monetizing web scraping with Apify actors
+- Creating marketing mix models with Google Meridian
+- Automating AI video creation with Kling AI API
+- Building bots on X (Twitter) API
+- Creating chatbots with Botpress
+- Building interactive dashboards with Plotly + Mantine
+
+### 4. Web Scraping & Data Collection (2 posts)
+
+- Playwright tips for professional scraping (anti-blocking strategies)
+- Upwork connects optimization for freelancers
+
+### 5. Tool Comparisons & Reviews
+
+- GBrain vs Obsidian vs other second brain tools (deep architecture analysis)
+- Hermes Agent vs OpenClaw (competitive analysis)
+- 5 Best AI models for agents (April 2026)
+- Apify platform review for passive income
+
+### 6. Key Takeaways
+
+1. **Agents need harnesses** - Building agents from scratch is not recommended; use established harness frameworks like OpenClaw or Hermes
+2. **Memory architecture matters** - Hermes Agent's 5-layer memory system is a key differentiator
+3. **Practical focus** - The blog emphasizes actionable tutorials over theory
+4. **Monetization mindset** - Multiple posts on making money through Apify, web scraping, and AI services
+5. **Tool diversity** - Covers a wide range: Claude, OpenClaw, Hermes, Apify, Playwright, Kling AI, Botpress, Meridian, etc.
+6. **Remote deployment** - Strong emphasis on VPS setup, SSH, and mobile access for agent management
+
+---
+
+## All Posts (Chronological)
+
+- **I’m Sorry, But GBrain Was Not Made For You** (Sun, 30 Aug 2026) - [https://blog.dadhalfdev.com/p/im-sorry-but-gbrain-was-not-made](https://blog.dadhalfdev.com/p/im-sorry-but-gbrain-was-not-made)
+- **You Don’t Need to Build an Agent From Scratch. You Need a Harness Engineer.** (Fri, 14 Aug 2026) - [https://blog.dadhalfdev.com/p/you-dont-need-to-build-an-agent-from](https://blog.dadhalfdev.com/p/you-dont-need-to-build-an-agent-from)
+- **The Only Hermes Agent Setup You Need For Your Remote Machine** (Sat, 18 Apr 2026) - [https://blog.dadhalfdev.com/p/the-only-hermes-agent-setup-you-need](https://blog.dadhalfdev.com/p/the-only-hermes-agent-setup-you-need)
+- **How The Hermes Agent Memory Really Works** (Wed, 15 Apr 2026) - [https://blog.dadhalfdev.com/p/how-the-hermes-agent-memory-really](https://blog.dadhalfdev.com/p/how-the-hermes-agent-memory-really)
+- **I Take My AI Agent Everywhere With Claude Dispatch: 3 Use Cases You Must Know** (Mon, 13 Apr 2026) - [https://blog.dadhalfdev.com/p/i-take-my-ai-agent-everywhere-with](https://blog.dadhalfdev.com/p/i-take-my-ai-agent-everywhere-with)
+- **The 5 Best Models to Use with AI Agents in April 2026** (Tue, 07 Apr 2026) - [https://blog.dadhalfdev.com/p/the-5-best-models-to-use-with-ai](https://blog.dadhalfdev.com/p/the-5-best-models-to-use-with-ai)
+- **I Built a Niche Newsletter With AI Agents** (Mon, 06 Apr 2026) - [https://blog.dadhalfdev.com/p/i-built-a-niche-newsletter-with-ai](https://blog.dadhalfdev.com/p/i-built-a-niche-newsletter-with-ai)
+- **Hermes: The Only AI Agent That Truly Competes With OpenClaw** (Sat, 14 Mar 2026) - [https://blog.dadhalfdev.com/p/hermes-the-only-ai-agent-that-truly](https://blog.dadhalfdev.com/p/hermes-the-only-ai-agent-that-truly)
+- **10 Tips to Make Your Life Easier With OpenClaw** (Tue, 10 Mar 2026) - [https://blog.dadhalfdev.com/p/10-tips-to-make-your-life-easier](https://blog.dadhalfdev.com/p/10-tips-to-make-your-life-easier)
+- **Stop Wasting Connects on Upwork: 5 Tips That Actually Work** (Tue, 10 Feb 2026) - [https://blog.dadhalfdev.com/p/stop-wasting-connects-on-upwork-5](https://blog.dadhalfdev.com/p/stop-wasting-connects-on-upwork-5)
+- **The Ultimate Guide to Start Earning on Apify** (Sat, 31 Jan 2026) - [https://blog.dadhalfdev.com/p/the-ultimate-guide-to-start-earning](https://blog.dadhalfdev.com/p/the-ultimate-guide-to-start-earning)
+- **Read This Before Installing the OpenClaw AI Agent** (Sat, 31 Jan 2026) - [https://blog.dadhalfdev.com/p/read-this-before-installing-the-openclaw](https://blog.dadhalfdev.com/p/read-this-before-installing-the-openclaw)
+- **How to Create a Marketing Mix Model with Google’s Meridian** (Mon, 26 Jan 2026) - [https://blog.dadhalfdev.com/p/how-to-create-a-marketing-mix-model](https://blog.dadhalfdev.com/p/how-to-create-a-marketing-mix-model)
+- **How to Automate Avatar Videos with Kling AI API and Python** (Tue, 30 Dec 2025) - [https://blog.dadhalfdev.com/p/how-to-automate-avatar-videos-with](https://blog.dadhalfdev.com/p/how-to-automate-avatar-videos-with)
+- **5 Tips to Turn You Into a Pro Web Scraper With Playwright** (Wed, 01 Oct 2025) - [https://blog.dadhalfdev.com/p/5-tips-to-turn-you-into-a-pro-web](https://blog.dadhalfdev.com/p/5-tips-to-turn-you-into-a-pro-web)
+- **Learn How to Build a Bot on X Step-by-Step With This Tutorial** (Tue, 16 Sep 2025) - [https://blog.dadhalfdev.com/p/x-api-v2-documentation-is-a-complete](https://blog.dadhalfdev.com/p/x-api-v2-documentation-is-a-complete)
+- **I Made a Video with Veo3 And Nano Banana From Old Pieces of Artwork** (Mon, 08 Sep 2025) - [https://blog.dadhalfdev.com/p/i-made-a-video-with-veo3-and-nano](https://blog.dadhalfdev.com/p/i-made-a-video-with-veo3-and-nano)
+- **You Need These Tips Before Building Your First Chatbot on Botpress** (Mon, 18 Aug 2025) - [https://blog.dadhalfdev.com/p/you-need-these-tips-before-building](https://blog.dadhalfdev.com/p/you-need-these-tips-before-building)
+- **Build the Coolest Plotly Dashboards with the Dash Mantine Components Library** (Fri, 04 Jul 2025) - [https://blog.dadhalfdev.com/p/build-the-coolest-plotly-dashboards](https://blog.dadhalfdev.com/p/build-the-coolest-plotly-dashboards)
+- **Make $100+ Monthly With Apify Actors - by Marco Rodrigues** (Sat, 10 May 2025) - [https://blog.dadhalfdev.com/p/make-100-monthly-with-apify-actors](https://blog.dadhalfdev.com/p/make-100-monthly-with-apify-actors)
